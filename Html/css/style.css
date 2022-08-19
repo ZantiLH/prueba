@@ -1,0 +1,25 @@
+body{
+    text-align: center;
+    background-color: black;
+}
+
+h1{
+    align-content: center;
+    margin: auto;
+    color: white;
+    margin: 60px;
+}
+
+ul, li{
+    margin: 15px;
+    color: white;
+}
+
+ul{
+    color: azure;
+}
+p{
+    margin: 50px;
+    color: white;
+    text-align: center;
+}
